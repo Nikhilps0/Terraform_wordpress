@@ -33,7 +33,7 @@ variable "name" {
 
 variable "domain_name" {
   # This Will Ask the Domain_name
-  default = "nikhilps.tk"
+  
 }
 
 
